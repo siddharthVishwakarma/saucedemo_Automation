@@ -1,0 +1,11 @@
+# Selenium bindings
+selenium>=4.8.0
+
+# Test runner
+pytest>=7.0.0
+
+# Automatically manage WebDriver binaries
+webdriver-manager>=3.8.2
+
+# Load .env files into environment
+python-dotenv>=0.21.0
